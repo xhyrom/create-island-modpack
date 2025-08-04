@@ -1,0 +1,13 @@
+name = "Create Mod Island With Blocky and Frogy"
+author = "xhyrom"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0221f5f1635f9614420cd948473878a5e1c6da4d54af5e71eae312a89ac6b311"
+
+[versions]
+fabric = "0.17.0"
+minecraft = "1.20.1"

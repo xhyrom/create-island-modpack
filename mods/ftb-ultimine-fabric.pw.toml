@@ -1,0 +1,13 @@
+name = "FTB Ultimine (Fabric)"
+filename = "ftb-ultimine-fabric-2001.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fa65d0bff8a16e1153c4bc986b3db2eefefb8a54"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6700665
+project-id = 448231

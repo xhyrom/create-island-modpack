@@ -1,0 +1,13 @@
+name = "Only Hammers"
+filename = "OnlyHammers-1.20.1-0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/p5wmRC3H/versions/hTDU7mUx/OnlyHammers-1.20.1-0.6.jar"
+hash-format = "sha1"
+hash = "67947b566aa69c1fe494520ee897815172f7781e"
+
+[update]
+[update.modrinth]
+mod-id = "p5wmRC3H"
+version = "hTDU7mUx"
