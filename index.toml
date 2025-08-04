@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/FUNDING.yml"
+hash = "db69ee079cca1c51380ddca479ec89a84fce72c3d5a77b3d4d7461809a5aaa1d"
+
+[[files]]
+file = ".github/logo.png"
+hash = "b25a302554ae42a66b31dbca654d644934e7d157453c32f8d0558244a20c21eb"
+
+[[files]]
+file = "LICENSE"
+hash = "dcf68fba710ffdd3fa325f3dfee3a8fa12f374eb08ca623456046bcd096604eb"
+
+[[files]]
+file = "README.md"
+hash = "f589ad54c035c24bff78ecde02220cd3045c03e1b43b42cc9faf0ea555e69d86"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "45412d432ff50baad4b0e15e62ef31ee99e9d1864c8c2d258e2a8230fcb77f9b"
 
@@ -115,11 +131,6 @@ hash = "4548d136288d54fe93c2b688e7d45b108e49767b864d6fca29fafc62bde09078"
 metafile = true
 
 [[files]]
-file = "mods/cupboard.pw.toml"
-hash = "4463005ad6ae41db2bf707952d6945297f48601a42ec8b6cac8aef09d653ffd2"
-metafile = true
-
-[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "3e9b6969df15bf6fc56840fddfd1d38744f558d5a903e4b80e6c1bde52e46290"
 metafile = true
@@ -167,16 +178,6 @@ metafile = true
 [[files]]
 file = "mods/freecam.pw.toml"
 hash = "b861ac2f88ecb4ac5c26704d9e385d3b863d6cffd2b1c2e43f17532bd026f23f"
-metafile = true
-
-[[files]]
-file = "mods/ftb-library-fabric.pw.toml"
-hash = "36cef0788ba915e48a0fd991847c35056bdbacda46273840c6f300b8431dfdc5"
-metafile = true
-
-[[files]]
-file = "mods/ftb-ultimine-fabric.pw.toml"
-hash = "b5dc52e8efb3dcdadfcd12b87815201abd7ba304165832294bc6c434bebf5ab3"
 metafile = true
 
 [[files]]
