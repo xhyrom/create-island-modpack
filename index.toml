@@ -14,11 +14,19 @@ hash = "dcf68fba710ffdd3fa325f3dfee3a8fa12f374eb08ca623456046bcd096604eb"
 
 [[files]]
 file = "README.md"
-hash = "611eaad8813840f221f2b23c575f42aabb8530a81180256da6aa94d283ff46b3"
+hash = "5612a6893616a9e9a0bd71b8edc8db112a37954634d012865d00a570c0880aa8"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "45412d432ff50baad4b0e15e62ef31ee99e9d1864c8c2d258e2a8230fcb77f9b"
+
+[[files]]
+file = "config/smallships-client.toml"
+hash = "8ac3f40a3dcc760bd3099fa5ca2b1b8d3e0aab320e8fd2f48da736b207537e1e"
+
+[[files]]
+file = "config/smallships-common.toml"
+hash = "1a207c4b51a16eca54d333125f33f9d6cb612223424f3eb0d9999fc105b9e832"
 
 [[files]]
 file = "mods/another-furniture.pw.toml"
