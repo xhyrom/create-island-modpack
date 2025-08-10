@@ -11,3 +11,6 @@ hash = "c1153315e3d0e7d216ca3179e483fe8b9f794433"
 [update.modrinth]
 mod-id = "AEZO385x"
 version = "SI0RzkGk"
+[update.curseforge]
+file-id = 5170120
+project-id = 876129

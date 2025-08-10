@@ -11,3 +11,6 @@ hash = "e1d85a3100c2f3683a65dca20518e3914d82b0f0"
 [update.modrinth]
 mod-id = "G1hIVOrD"
 version = "UOdaYbhh"
+[update.curseforge]
+file-id = 5659872
+project-id = 570073

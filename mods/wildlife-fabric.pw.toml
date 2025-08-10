@@ -11,3 +11,6 @@ hash = "a58147b4e2e902611a18a9c57739498a44e08d0f"
 [update.modrinth]
 mod-id = "gkVIACVj"
 version = "QmXRyhus"
+[update.curseforge]
+file-id = 4660904
+project-id = 568457

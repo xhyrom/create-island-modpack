@@ -11,3 +11,6 @@ hash = "dd6af912a0da96334c978f475bb996d5b103379a"
 [update.modrinth]
 mod-id = "U6BUTZ7K"
 version = "NKdlDMoA"
+[update.curseforge]
+file-id = 6348582
+project-id = 353928

@@ -11,3 +11,6 @@ hash = "adef379e843b6788f0743b035e4658e043baf2f5"
 [update.modrinth]
 mod-id = "XZNI4Cpy"
 version = "nvqkBIsD"
+[update.curseforge]
+file-id = 6418134
+project-id = 396826

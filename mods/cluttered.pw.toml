@@ -11,3 +11,6 @@ hash = "38581f6fcbcd2ca3959354cd196b52502f0548dd"
 [update.modrinth]
 mod-id = "UnAEo77V"
 version = "NOU4xHGw"
+[update.curseforge]
+file-id = 4756831
+project-id = 826308

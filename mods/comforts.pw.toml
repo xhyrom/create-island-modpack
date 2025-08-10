@@ -11,3 +11,6 @@ hash = "96c1b52fa6dcff140b56e17ce980d2a5c528fad2"
 [update.modrinth]
 mod-id = "SaCpeal4"
 version = "pMr60Kkq"
+[update.curseforge]
+file-id = 5503514
+project-id = 276951

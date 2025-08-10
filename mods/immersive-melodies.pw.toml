@@ -11,3 +11,6 @@ hash = "45c9e5b8b2900a7190117ebd85ae34dd468a1738"
 [update.modrinth]
 mod-id = "TaSmHw8V"
 version = "mdmGUrXB"
+[update.curseforge]
+file-id = 6744790
+project-id = 904471

@@ -11,3 +11,6 @@ hash = "5e541a056fa947ce82d962f3e832c2bede51123d"
 [update.modrinth]
 mod-id = "pvcsfne4"
 version = "hV0Pl3WP"
+[update.curseforge]
+file-id = 4751399
+project-id = 736986
